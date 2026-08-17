@@ -1,5 +1,5 @@
 # 💫 About Me:
-## About Me<br><br>I'm **Aijaz Ahmed Mohammed**, a Computer Engineer with an M.S. from **George Mason University**, specializing in **Machine Learning and Intelligent Computing Architectures**.<br><br>I build across **AI/ML, Generative AI, software, and embedded systems**, with hands-on experience in deep learning, RAG, GPU computing, TinyML, and FPGA development.<br><br>I'm interested in building **intelligent systems from models to real-world deployment** and am currently exploring opportunities in **AI/ML, Generative AI, Software Engineering, and Embedded/Edge AI**.
+## <br><br>I'm **Aijaz Ahmed Mohammed**, a Computer Engineer with an M.S. from **George Mason University**, specializing in **Machine Learning and Intelligent Computing Architectures**.<br><br>I build across **AI/ML, Generative AI, software, and embedded systems**, with hands-on experience in deep learning, RAG, GPU computing, TinyML, and FPGA development.<br><br>I'm interested in building **intelligent systems from models to real-world deployment** and am currently exploring opportunities in **AI/ML, Generative AI, Software Engineering, and Embedded/Edge AI**.
 
 
 ## 🌐 Socials:
